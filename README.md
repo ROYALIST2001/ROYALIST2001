@@ -1,7 +1,10 @@
-# 👋 Hi, I'm Inura Dilhara
+
+<h1 align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=500&lines=Hello%2C+I'm+Inura+Dilhara;Computer+Engineering+Undergraduate;AI+%7C+ML+%7C+Deep+Learning+Enthusiast" alt="Typing SVG" />
+</h1>
 
 🎓 **Computer Engineering Undergraduate**  
-🏫 University of Sri Jayewardenepura  
+🏫 E-FAC University of Sri Jayewardenepura  
 🤖 Interested in **AI, Machine Learning, Deep Learning, Computer Vision & Full-Stack Development**
 
 ---
