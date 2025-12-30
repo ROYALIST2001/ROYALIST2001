@@ -1,6 +1,6 @@
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=500&lines=Hello%2C+I'm+Inura+Dilhara;Computer+Engineering+Undergraduate;AI+%7C+ML+%7C+Deep+Learning+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=500&lines=Hello%2C+I'm+Inura+Dilhara;E-FAC USJ" alt="Typing SVG" />
 </h1>
 
 🎓 **Computer Engineering Undergraduate**  
