@@ -3,7 +3,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=500&lines=Hello%2C+I'm+Inura+Dilhara;E-FAC+USJ" alt="Typing SVG" />
 </h1>
 
-🎓 **Computer Engineering Undergraduate**  
+🎓 ** Computer Engineering Undergraduate **  
 🏫 E-FAC University of Sri Jayewardenepura  
 🤖 Interested in **AI, Machine Learning, Deep Learning, Computer Vision & Full-Stack Development**
 
