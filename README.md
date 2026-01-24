@@ -4,7 +4,7 @@
 </h1>
 
 🎓 ** Computer Engineering Undergraduate **  
-🏫 E-FAC University of Sri Jayewardenepura  
+🏫 E-FAC University of Sri Jayewardenapura  
 🤖 Interested in **AI, Machine Learning, Deep Learning, Computer Vision & Full-Stack Development**
 
 ---
