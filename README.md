@@ -80,7 +80,7 @@
 
 ---
 
-### ☁️ Cloud & DevOps  
+### ☁️ Cloud 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)
 ![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge)
