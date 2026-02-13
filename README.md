@@ -1,15 +1,26 @@
-
-<h1 align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&width=500&lines=Hello%2C+I'm+Inura+Dilhara;E-FAC+USJ" alt="Typing SVG" />
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hello%2C+I'm+Inura+Dilhara;Computer+Engineering+Undergraduate;AI+%7C+LLM+%7C+Full+Stack+Developer" alt="Typing SVG" />
 </h1>
 
-🎓 ** Computer Engineering Undergraduate **  
-🏫 E-FAC University of Sri Jayewardenapura  
-🤖 Interested in **AI, Machine Learning, Deep Learning, Computer Vision & Full-Stack Development**
+<p align="center">
+  🎓 Computer Engineering Undergraduate <br>
+  🏫 University of Sri Jayewardenapura <br>
+  🤖 AI | Machine Learning | Generative AI | Full-Stack Development
+</p>
 
 ---
 
-## 🚀 Skills
+## 🌐 Connect with Me  
+
+<p align="center">
+  <a href="https://github.com/your-username"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"></a>
+  <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"></a>
+  <a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"></a>
+</p>
+
+---
+
+## 🚀 Skills  
 
 ### 💻 Programming  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -27,6 +38,7 @@
 
 ### 🌐 Web, Backend & APIs  
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -49,24 +61,25 @@
 
 ---
 
-### 👁️ Computer Vision & Image Processing  
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white)
-![Image Processing](https://img.shields.io/badge/Image_Processing-4A90E2?style=for-the-badge)
+### 🤖 Generative AI & LLM  
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-1E90FF?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge)
+![LLaMA](https://img.shields.io/badge/LLaMA-Meta-green?style=for-the-badge)
+![Mistral](https://img.shields.io/badge/Mistral-FF7000?style=for-the-badge)
+![Falcon](https://img.shields.io/badge/Falcon-7A5FFF?style=for-the-badge)
 
 ---
 
-### 📊 Data Analysis & Visualization  
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+### 🗄️ Vector Databases  
+![ChromaDB](https://img.shields.io/badge/ChromaDB-00C853?style=for-the-badge)
+![Pinecone](https://img.shields.io/badge/Pinecone-0052FF?style=for-the-badge)
+![Weaviate](https://img.shields.io/badge/Weaviate-FF6F00?style=for-the-badge)
 
 ---
 
-### 🛠️ Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
----
 
 
 
