@@ -80,6 +80,28 @@
 
 ---
 
+### ☁️ Cloud & DevOps  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge)
+![RDS](https://img.shields.io/badge/RDS-527FFF?style=for-the-badge)
+![Aurora](https://img.shields.io/badge/Aurora-232F3E?style=for-the-badge)
+![ElastiCache](https://img.shields.io/badge/ElastiCache-FF4F8B?style=for-the-badge)
+![Route53](https://img.shields.io/badge/Route53-8C4FFF?style=for-the-badge)
+![CloudFront](https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge)
+![IAM](https://img.shields.io/badge/IAM-FF9900?style=for-the-badge)
+![AWS CLI](https://img.shields.io/badge/AWS_CLI-232F3E?style=for-the-badge)
+![ELB](https://img.shields.io/badge/ELB-FF9900?style=for-the-badge)
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge)
+![SNS](https://img.shields.io/badge/SNS-FF9900?style=for-the-badge)
+![Kinesis](https://img.shields.io/badge/Kinesis-FF9900?style=for-the-badge)
+![ECS](https://img.shields.io/badge/ECS-FF9900?style=for-the-badge)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge)
+![Fargate](https://img.shields.io/badge/Fargate-FF9900?style=for-the-badge)
+![ECR](https://img.shields.io/badge/ECR-FF9900?style=for-the-badge)
+
+---
 
 
 
